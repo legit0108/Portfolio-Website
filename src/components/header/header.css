@@ -40,8 +40,6 @@ header {
     background: var(--color-primary);
 }
 
-/* ME */
-
 /* SCROLL DOWN */
 
 .scroll__down {
@@ -51,4 +49,25 @@ header {
     transform: rotate(90deg);
     font-weight: 200;
     font-size: 0.9rem;
+}
+
+/* MEDIA QUERIES (MEDIUM DEVICES / TABLETS) */
+
+@media screen and (max-width: 1024px){
+   header {
+    height: 68vh;
+
+   }  
+}
+
+/* MEDIA QUERIES (SMALL DEVICES) */
+
+@media screen and (max-width: 600px){
+   header {
+    height: 100vh;
+   }
+   
+   .header__socials, .scroll__down {
+    display: none;
+   }
 }
