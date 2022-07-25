@@ -30,13 +30,12 @@
 }
 
 html {
-  /* scroll smoothly to various sections of the page */
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth; /* scroll smoothly to various sections of the page */
 }
 
-/* no scrollbar needed */
+
 ::-webkit-scrollbar {
-  display:none;
+  display:none; /* no scrollbar needed */
 }
 
 body{
@@ -115,9 +114,8 @@ a:hover {
 img {
   display: block;
   width: 100%;
-
-  /* The image keeps its aspect ratio and fills the given dimension. The image will be clipped to fit */
-  object-fit: cover;
+  object-fit: cover; /* The image keeps its aspect ratio and fills the given dimension. 
+                     The image will be clipped to fit */
 }
 
 /* MEDIA QUERIES (MEDIUM DEVICES / TABLETS) */

@@ -18,17 +18,20 @@ function About() {
               <h5>Education</h5>
               <small>CSE At TIET Patiala , Expected 2024</small>
             </article>
+
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
               <small>30+ Completed</small>
             </article>
+
             <article className='about__card'>
               <GiBrain className='about__icon'/>
               <h5>Coding Problems Solved</h5>
               <small>1500+ Across Various Platforms</small>
             </article>
           </div>
+          
           <p>
             Hey there ! I am Lakshit Pandey , an upcoming Technology Developer Intern at D.E. Shaw , a 3rd year
             CSE student at Thapar Institute Of Engineering And Technology , Patiala , I like coding and problem solving , 

@@ -16,7 +16,7 @@ function Footer() {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/lakshit-pandey-66a0591b3"><BsLinkedin/></a>
+        <a href="https://www.linkedin.com/in/lakshit-pandey-66a0591b3" target="_blank"><BsLinkedin/></a>
       </div>
     </footer>
   )

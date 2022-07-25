@@ -7,6 +7,7 @@ function Experience() {
     <section id='experience'>
       <h5>What Skills I Have</h5>
       <h2>Web Development</h2>
+
       <div className="container experience__container">
         <div className="experience__frontend">
            <h3>Frontend Development</h3>
@@ -15,14 +16,17 @@ function Experience() {
                <BsPatchCheckFill className="experience__details-icon"/>
                <h4>ReactJS</h4>
             </article>
+
             <article className="experience__details">
                <BsPatchCheckFill className="experience__details-icon"/>
                <h4>JavaScript</h4>
             </article>
+
             <article className="experience__details">
                <BsPatchCheckFill className="experience__details-icon"/>
                <h4>HTML</h4>
             </article>
+
             <article className="experience__details">
                <BsPatchCheckFill className="experience__details-icon"/>
                <h4>CSS</h4>
@@ -31,11 +35,8 @@ function Experience() {
         </div> 
         
         {/* Coming soon ! */
-        /* <div className="experience__backend">
-          
-        </div>  */}
+        /* <div className="experience__backend"></div>  */}
       </div>
-
     </section>
   )
 }

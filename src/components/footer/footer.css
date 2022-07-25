@@ -1,7 +1,6 @@
 footer {
     background: var(--color-primary);
-    /*vertical horizontal*/
-    padding: 3rem 0;
+    padding: 3rem 0; /*vertical horizontal*/
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
@@ -30,8 +29,7 @@ footer a {
     flex-wrap: wrap;
     justify-content: center;
     gap: 2rem;
-    /* top | horizontal | bottom */
-    margin: 0 auto 3rem;
+    margin: 0 auto 3rem; /* top | horizontal | bottom */
 }
 
 .footer__socials a {

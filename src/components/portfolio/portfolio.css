@@ -23,8 +23,7 @@
 }
 
 .portfolio__item h3 {
-    /* top , left and right , bottom */
-    margin: 1.2rem 0 2rem; 
+    margin: 1.2rem 0 2rem; /* top , left and right , bottom */ 
 }
 
 .portfolio__item-cta {
