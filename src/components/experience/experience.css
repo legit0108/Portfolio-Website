@@ -1,6 +1,6 @@
 .experience__container {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 2rem; 
 }
 
@@ -43,13 +43,9 @@
 /* MEDIA QUERIES (MEDIUM DEVICES / TABLETS) */
 
 @media screen and (max-width: 1024px){
-   .experience__container {
-      grid-template-columns: 1fr;
-   } 
-
    .experience__container > div {
-      width: 80%;
-      padding: 2rem;
+      width: 100%;
+      padding: 2rem 1rem;
       margin: 0 auto;
    }
 
@@ -61,7 +57,8 @@
 /* MEDIA QUERIES (SMALL DEVICES) */
 @media screen and (max-width: 600px){
    .experience__container {
-      gap: 1rem;
+        grid-template-columns: 1fr;
+        gap: 1rem; 
    }
 
    .experience__container > div {

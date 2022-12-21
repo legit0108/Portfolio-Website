@@ -34,8 +34,26 @@ function Experience() {
            </div>
         </div> 
         
-        {/* Coming soon ! */
-        /* <div className="experience__backend"></div>  */}
+        
+        <div className="experience__backend">
+           <h3>Backend Development</h3>
+           <div className="experience__content">
+               <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon"/>
+                  <h4>MongoDB</h4>
+               </article>
+
+               <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon"/>
+                  <h4>ExpressJS</h4>
+               </article>
+
+               <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon"/>
+                  <h4>NodeJS</h4>
+               </article>
+           </div>
+        </div>
       </div>
     </section>
   )
