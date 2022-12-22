@@ -12,7 +12,7 @@ function Header() {
         <h5 className="text-light">Upcoming Technology Developer Intern at D.E. Shaw</h5>
         <CTA/>
         <HeaderSocials/>
-        <a href="#contact" className="scroll__down">Scroll Down</a>
+        <a href="#contact" className="scroll__down">Scroll down</a>
       </div>
     </header>
   )
