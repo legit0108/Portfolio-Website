@@ -26,17 +26,12 @@ function Services() {
 
               <li>
                 <BiCheck className="service__list-icon"/>
-                <p>Intermediate in Back-End Development</p>
+                <p>Proficient in Back-End Development</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon"/>
-                <p>Proficient with using MongoDB, ExpressJS, NodeJS</p>
-              </li>
-
-              <li>
-                <BiCheck className="service__list-icon"/>
-                <p>Currently learning Back-End Development in Python- Django</p>
+                <p>Proficient with using MongoDB, ExpressJS, NodeJS and Django</p>
               </li>
             </ul>
          </article>

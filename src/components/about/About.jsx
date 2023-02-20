@@ -34,9 +34,11 @@ function About() {
           
           <p>
             Hey there! I am Lakshit Pandey, an upcoming Technology Developer Intern at D.E. Shaw, a 3rd year
-            CSE student at Thapar Institute of Engineering and Technology, Patiala, I like coding and problem solving, 
+            CSE student at Thapar Institute of Engineering and Technology, Patiala, I like coding and problem-solving, 
             I'm a Knight at LeetCode with a contest rating of 2000+, a 4* coder at CodeChef and
-            a Specialist at Codeforces. I'm currently working on improving my web development skills.  
+            a Specialist at Codeforces. I am comfortable with Full-Stack web development and have worked with libraries and frameworks like ReactJS and Django. 
+            I would be very interested in applying for any full-time positions for SDE-1 roles soon, if you know of any opportunities like this, I’d love to chat. 
+            I’ve uploaded my resume above for your consideration, and you can reach me directly via LinkedIn or Email.
           </p>
         </div>
       </div>

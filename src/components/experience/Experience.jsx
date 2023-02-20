@@ -52,6 +52,11 @@ function Experience() {
                   <BsPatchCheckFill className="experience__details-icon"/>
                   <h4>NodeJS</h4>
                </article>
+
+               <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon"/>
+                  <h4>Django</h4>
+               </article>
            </div>
         </div>
       </div>

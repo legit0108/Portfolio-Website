@@ -2,8 +2,8 @@ import React from 'react'
 import './portfolio.css'
 
 import IMG1 from '../../assets/memories.PNG'
-import IMG2 from '../../assets/browseMovies.PNG'
-import IMG3 from '../../assets/cameraGallery.PNG'
+import IMG2 from '../../assets/drfApi.PNG'
+import IMG3 from '../../assets/browseMovies.PNG'
 import IMG4 from '../../assets/leetcodeAutomation.PNG'
 
 const data = [
@@ -17,16 +17,16 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Browse Movies',
-    github: "https://github.com/legit0108/movies-app-final",
-    demo: "https://browse-movies.netlify.app/"
+    title: 'Django REST API',
+    github: "https://github.com/legit0108/Django-REST-API",
+    demo: null
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Camera Gallery',
-    github: "https://github.com/legit0108/Camera-Gallery",
-    demo: null
+    title: 'Browse Movies',
+    github: "https://github.com/legit0108/movies-app-final",
+    demo: "https://browse-movies.netlify.app/"
   },
   {
     id: 4,
