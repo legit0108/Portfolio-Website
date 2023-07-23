@@ -21,7 +21,7 @@ function Services() {
 
               <li>
                 <BiCheck className="service__list-icon"/>
-                <p>Proficient with using ReactJS, JavaScript, HTML, CSS</p>
+                <p>Proficient with using React-Redux and JavaScript</p>
               </li>
 
               <li>
@@ -31,7 +31,7 @@ function Services() {
 
               <li>
                 <BiCheck className="service__list-icon"/>
-                <p>Proficient with using MongoDB, ExpressJS, NodeJS and Django</p>
+                <p>Proficient with using Python, Django, MongoDB, NodeJS and ExpressJS</p>
               </li>
             </ul>
          </article>

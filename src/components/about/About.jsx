@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import {GiGraduateCap} from 'react-icons/gi'
 import {GiBrain} from 'react-icons/gi'
-import {VscFolderLibrary} from'react-icons/vsc';
+import {IoPeople} from 'react-icons/io5'
 
 function About() {
   return (
@@ -14,30 +14,28 @@ function About() {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <GiGraduateCap className='about__icon'/>
-              <h5>Education</h5>
-              <small>CSE at TIET Patiala, expected 2024</small>
+              <IoPeople className='about__icon'/>
+              <h5>Experience</h5>
+              <small>SDE Summer Intern at D. E. Shaw & Co. <br/> May-July 2023</small>
             </article>
-
-            <article className='about__card'>
-              <VscFolderLibrary className='about__icon'/>
-              <h5>Projects</h5>
-              <small>30+ completed</small>
-            </article>
-
             <article className='about__card'>
               <GiBrain className='about__icon'/>
               <h5>Coding problems solved</h5>
               <small>1500+ across various platforms</small>
             </article>
+            <article className='about__card'>
+              <GiGraduateCap className='about__icon'/>
+              <h5>Education</h5>
+              <small>CSE at TIET Patiala, expected 2024</small>
+            </article>
           </div>
           
           <p>
-            Hey there! I am Lakshit Pandey, an upcoming Technology Developer Intern at D.E. Shaw, a 3rd year
+            Hey there! I am Lakshit Pandey, SDE Summer Intern at D. E. Shaw & Co. (SIP’23), final year
             CSE student at Thapar Institute of Engineering and Technology, Patiala, I like coding and problem-solving, 
             I'm a Knight at LeetCode with a contest rating of 2000+, a 4* coder at CodeChef and
-            a Specialist at Codeforces. I am comfortable with Full-Stack web development and have worked with libraries and frameworks like ReactJS and Django. 
-            I would be very interested in applying for any full-time positions for SDE-1 roles soon, if you know of any opportunities like this, I’d love to chat. 
+            a Specialist at Codeforces. I am comfortable with Full-Stack web development and have worked with libraries and frameworks like React-Redux and Django. 
+            I am interested in applying for any full-time positions for SDE-1 roles, if you know of any opportunities like this, I’d love to chat. 
             I’ve uploaded my resume above for your consideration, and you can reach me directly via LinkedIn or Email.
           </p>
         </div>

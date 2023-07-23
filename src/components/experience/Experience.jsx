@@ -19,17 +19,17 @@ function Experience() {
 
             <article className="experience__details">
                <BsPatchCheckFill className="experience__details-icon"/>
+               <h4>Redux</h4>
+            </article>
+
+            <article className="experience__details">
+               <BsPatchCheckFill className="experience__details-icon"/>
                <h4>JavaScript</h4>
             </article>
 
             <article className="experience__details">
                <BsPatchCheckFill className="experience__details-icon"/>
-               <h4>HTML</h4>
-            </article>
-
-            <article className="experience__details">
-               <BsPatchCheckFill className="experience__details-icon"/>
-               <h4>CSS</h4>
+               <h4>HTML & CSS</h4>
             </article>
            </div>
         </div> 
@@ -40,23 +40,21 @@ function Experience() {
            <div className="experience__content">
                <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon"/>
-                  <h4>MongoDB</h4>
+                  <h4>Python</h4>
                </article>
-
-               <article className="experience__details">
-                  <BsPatchCheckFill className="experience__details-icon"/>
-                  <h4>ExpressJS</h4>
-               </article>
-
-               <article className="experience__details">
-                  <BsPatchCheckFill className="experience__details-icon"/>
-                  <h4>NodeJS</h4>
-               </article>
-
                <article className="experience__details">
                   <BsPatchCheckFill className="experience__details-icon"/>
                   <h4>Django</h4>
                </article>
+               <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon"/>
+                  <h4>MongoDB</h4>
+               </article>
+               <article className="experience__details">
+                  <BsPatchCheckFill className="experience__details-icon"/>
+                  <h4>NodeJS & ExpressJS</h4>
+               </article>
+
            </div>
         </div>
       </div>
