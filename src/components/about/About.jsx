@@ -31,7 +31,7 @@ function About() {
           </div>
           
           <p>
-            Hey there! I am Lakshit Pandey, SDE Summer Intern at D. E. Shaw & Co. (SIP’23), final year
+            Hey there! I am Lakshit Pandey, former SDE Intern at D. E. Shaw & Co., final year
             CSE student at Thapar Institute of Engineering and Technology, Patiala. I like coding and problem-solving, 
             I'm a Knight at LeetCode with a contest rating of 2000+, a 4* coder at CodeChef and
             a Specialist at Codeforces. I am comfortable with Full-Stack web development and have worked with libraries and frameworks like React-Redux and Django. 
