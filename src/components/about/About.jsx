@@ -35,8 +35,6 @@ function About() {
             CSE student at Thapar Institute of Engineering and Technology, Patiala. I like coding and problem-solving, 
             I'm a Knight at LeetCode with a contest rating of 2000+, a 4* coder at CodeChef and
             a Specialist at Codeforces. I am comfortable with Full-Stack web development and have worked with libraries and frameworks like React-Redux and Django. 
-            I am interested in applying for any full-time positions for SDE-1 roles, if you know of any opportunities like this, I’d love to chat. 
-            I’ve uploaded my resume above for your consideration, and you can reach me directly via LinkedIn or Email.
           </p>
         </div>
       </div>
